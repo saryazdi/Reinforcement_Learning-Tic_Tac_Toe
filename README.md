@@ -16,7 +16,7 @@ This code is written in <b>PYTHON 3</b>.</br>
 -Number of paths that the query move will block for 2 enemies
 
 <h2>---- Code Instructions ----</h2>
-<h2>Defined Functions:</h2>
+<h2>Functions:</h2>
 <h3>-Board_Analysis(board,team):</h3> This function analyses the board and extracts features from it
 
 <h3>-Endgame_Check(board):</h3> This function checks if the game has ended, and if so, who has won the game.
