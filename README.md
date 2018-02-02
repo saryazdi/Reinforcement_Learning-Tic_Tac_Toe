@@ -10,13 +10,13 @@ This code is written in <b>PYTHON 3</b>.</br>
 
 <h3>Basic Introduction:</h3> This Python code trains a model to play Tic Tac Toe. The model learns to play Tic Tac Toe by playing the game against itself for several thousand times. During these games, the model tries to learn the best moves to take in order to win (Reinforcement Learning). After the model is trained, the user can play Tic Tac Toe against the model.
 
-<h3>More Specific Introduction:</h3> The model used is a single neuron, because Tic Tac Toe is a fairly simple game. Training is done using gradient descent. Values are assigned to each state of the game after the game is finished based on the explanation in the book "Machine Learning" by Dr. Tom Mitchell. The features that are used by the model are:
--Number of open paths for the query move with 2 team members
--Number of paths that the query move will block with atleast 1 enemy
+<h3>More Specific Introduction:</h3> The model used is a single neuron, because Tic Tac Toe is a fairly simple game. Training is done using gradient descent. Values are assigned to each state of the game after the game is finished based on the explanation in the book "Machine Learning" by Dr. Tom Mitchell. The features that are used by the model are:</br>
+-Number of open paths for the query move with 2 team members</br>
+-Number of paths that the query move will block with atleast 1 enemy</br>
 -Number of paths that the query move will block with 2 enemies
 
 <h2>---- Code Instructions ----</h2>
-
+<h2>Defined Functions:</h2>
 <h3>-Board_Analysis(board,team):</h3> This function analyses the board and extracts features from it
 
 <h3>-Endgame_Check(board):</h3> This function checks if the game has ended, and if so, who has won the game.
