@@ -1,6 +1,6 @@
 # Reinforcement Learning: Tic Tac Toe
 <img src="https://github.com/saryazdi/Reinforcement_Learning-Tic_Tac_Toe/blob/master/TIC_TAC_TOE_Game.jpg?raw=true" width="400" align="right" alt="Computer Hope">
-THIS CODE IS WRITTEN IN <b>PYTHON 3</b>
+THIS CODE IS WRITTEN IN <b>PYTHON 3</b></br>
 <b>Dependencies:</b></br>
 -numpy</br>
 -random</br>
