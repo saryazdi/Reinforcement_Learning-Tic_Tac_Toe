@@ -1,15 +1,14 @@
 # Reinforcement Learning: Tic Tac Toe
-THIS CODE IS WRITTEN IN <h3>PYTHON 3</h3>
+- THIS CODE IS WRITTEN IN <b>PYTHON 3</b>
+- <h3>Dependencies:</h3></br>
+<b>-numpy</b></br>
+<b>-random</b></br>
+<b>-termcolor</b> (for printing colored text)
 
-
-<img src="https://github.com/saryazdi/Reinforcement_Learning-Tic_Tac_Toe/blob/master/TIC_TAC_TOE_Game.jpg?raw=true" width="400" align="left" alt="Computer Hope">
+<img src="https://github.com/saryazdi/Reinforcement_Learning-Tic_Tac_Toe/blob/master/TIC_TAC_TOE_Game.jpg?raw=true" width="400" align="right" alt="Computer Hope">
 
 <h2>Introduction</h2>
-<h3>Dependencies:</h3>
-<b>-numpy</b>
-<b>-random</b>
-<b>-termcolor</b> (for printing colored text)
-</br>
+
 <h3>Basic Introduction:</h3> This Python code trains a model to play "Tic Tac Toe". The model learns to play Tic Tac Toe by playing the game against itself for several thousand times. During these games, the model tries to learn the best moves to take in order to win (Reinforcement Learning). After the model is trained, the user can play Tic Tac Toe against the model.
 
 <h3>More Specific Introduction:</h3> The model used is a single neuron, because Tic Tac Toe is a fairly simple game. Training is done using gradient descent. Values are assigned to each state of the game after the game is finished based on the explanation in the book "Machine Learning" by Dr. Tom Mitchell. The features that are used by the model are:
