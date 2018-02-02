@@ -1,11 +1,10 @@
 # Reinforcement Learning: Tic Tac Toe
-- THIS CODE IS WRITTEN IN <b>PYTHON 3</b>
-- <h3>Dependencies:</h3></br>
-<b>-numpy</b></br>
-<b>-random</b></br>
-<b>-termcolor</b> (for printing colored text)
-
 <img src="https://github.com/saryazdi/Reinforcement_Learning-Tic_Tac_Toe/blob/master/TIC_TAC_TOE_Game.jpg?raw=true" width="400" align="right" alt="Computer Hope">
+THIS CODE IS WRITTEN IN <b>PYTHON 3</b>
+<b>Dependencies:</b></br>
+-numpy</br>
+-random</br>
+-termcolor (for printing colored text)
 
 <h2>Introduction</h2>
 
